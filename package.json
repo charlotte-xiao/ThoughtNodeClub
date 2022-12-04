@@ -1,0 +1,12 @@
+{
+  "name": "thought-node-club",
+  "version": "0.1.0",
+  "private": true,
+  "main": "app.js",
+  "description": "A Node.js bbs using MongoDB and Redis",
+  "repository": "https://github.com/charlotte-xiao/ThoughtNodeClub",
+  "dependencies": {
+  },
+  "scripts": {
+  }
+}
